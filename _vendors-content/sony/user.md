@@ -1,4 +1,4 @@
----
+adb shell /data/app/moe.shizuku.privileged.api-uW67JL7cCepTysUQH3Q9TQ==/lib/arm64/libshizuku.so---
 manufacturer: 
     - sony
 
